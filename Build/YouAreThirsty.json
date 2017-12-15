@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "YouAreThirsty.data.unityweb",
+"asmCodeUrl": "YouAreThirsty.asm.code.unityweb",
+"asmMemoryUrl": "YouAreThirsty.asm.memory.unityweb",
+"asmFrameworkUrl": "YouAreThirsty.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
